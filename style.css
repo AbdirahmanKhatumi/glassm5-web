@@ -52,6 +52,9 @@ ul li a{
     font-weight: 500;
     font-family: 'Lexend';
 }
+ul li a:hover{
+    color: #d16b4d;
+}
 .bars{
     display: none;
 }
